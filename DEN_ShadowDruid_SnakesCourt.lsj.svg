@@ -47,7 +47,7 @@
 <text text-anchor="start" x="11472.97" y="-1748.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n0478f5bf94c41bf4a5566f7b5bc56c55&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge106" class="edge">
+<g id="edge110" class="edge">
 <title>n0478f5bf94c41bf4a5566f7b5bc56c55&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11240.75,-1713.85C11318.53,-1725.88 11401.58,-1738.72 11448.75,-1746.01"/>
 <polygon fill="black" stroke="black" points="11448.41,-1749.5 11458.82,-1747.57 11449.48,-1742.58 11448.41,-1749.5"/>
@@ -68,7 +68,7 @@
 <text text-anchor="start" x="3342.61" y="-533.8" font-family="Times New Roman,serif" font-size="14.00">She eats our food, drinks our water. Then steals our most holy Idol in thanks!</text>
 </g>
 <!-- n0502531d48ab4f0210fc8aad8ee7e75b&#45;&gt;n9593790f4e935aa6adbc29e80fc2e39a -->
-<g id="edge18" class="edge">
+<g id="edge20" class="edge">
 <title>n0502531d48ab4f0210fc8aad8ee7e75b&#45;&gt;n9593790f4e935aa6adbc29e80fc2e39a</title>
 <path fill="none" stroke="black" d="M2918.74,-464.49C3017.82,-475.71 3186.89,-494.85 3326.44,-510.65"/>
 <polygon fill="black" stroke="black" points="3326.1,-514.14 3336.43,-511.78 3326.89,-507.18 3326.1,-514.14"/>
@@ -91,7 +91,7 @@
 <text text-anchor="start" x="15386.61" y="-347.8" font-family="Times New Roman,serif" font-size="14.00">Bury the remains. Continue the rite.</text>
 </g>
 <!-- n06ce3e85b17745cbdd6a4648f374e640&#45;&gt;nbd3b7c4e546c12e00714fae7662e6b85 -->
-<g id="edge155" class="edge">
+<g id="edge154" class="edge">
 <title>n06ce3e85b17745cbdd6a4648f374e640&#45;&gt;nbd3b7c4e546c12e00714fae7662e6b85</title>
 <path fill="none" stroke="black" d="M15228.01,-359C15260.34,-359 15293.29,-359 15324.32,-359"/>
 <polygon fill="black" stroke="black" points="15324.32,-362.5 15334.32,-359 15324.32,-355.5 15324.32,-362.5"/>
@@ -112,7 +112,7 @@
 <text text-anchor="start" x="10820.15" y="-183.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;88a42875&#45;a8f9&#45;8d3f&#45;0e82&#45;2b860f0b7e53_MindHasBeenRead = True</text>
 </g>
 <!-- n086d1dc36b9d9d2becd30f90fd7a64cb&#45;&gt;ne379c35e69790637f6baace6049a0281 -->
-<g id="edge101" class="edge">
+<g id="edge92" class="edge">
 <title>n086d1dc36b9d9d2becd30f90fd7a64cb&#45;&gt;ne379c35e69790637f6baace6049a0281</title>
 <path fill="none" stroke="black" d="M10416.72,-208C10481.28,-208 10591.47,-208 10702.13,-208"/>
 <polygon fill="black" stroke="black" points="10702.15,-211.5 10712.15,-208 10702.15,-204.5 10702.15,-211.5"/>
@@ -132,7 +132,7 @@
 <text text-anchor="start" x="7379.17" y="-801.8" font-family="Times New Roman,serif" font-size="14.00">And keep still, devil. Teela is restless.</text>
 </g>
 <!-- n08cefaa7a4c129debe247908428d51eb&#45;&gt;n430694e95ed22f520598898cde99d376 -->
-<g id="edge32" class="edge">
+<g id="edge30" class="edge">
 <title>n08cefaa7a4c129debe247908428d51eb&#45;&gt;n430694e95ed22f520598898cde99d376</title>
 <path fill="none" stroke="black" d="M7288.45,-812.57C7297.04,-812.58 7305.57,-812.6 7314,-812.62"/>
 <polygon fill="black" stroke="black" points="7314.2,-816.12 7324.21,-812.64 7314.22,-809.12 7314.2,-816.12"/>
@@ -154,7 +154,7 @@
 <text text-anchor="start" x="12988.15" y="-866.8" font-family="Times New Roman,serif" font-size="14.00"> &#45; Teela, to me.</text>
 </g>
 <!-- n0b5ca4a6aadb9e7a49713dc8d1663ce6&#45;&gt;ndf6ba99a99fbe8588659308b48a0a621 -->
-<g id="edge120" class="edge">
+<g id="edge108" class="edge">
 <title>n0b5ca4a6aadb9e7a49713dc8d1663ce6&#45;&gt;ndf6ba99a99fbe8588659308b48a0a621</title>
 <path fill="none" stroke="black" d="M12627.19,-1016.76C12700.47,-986.5 12822.84,-935.97 12898.64,-904.67"/>
 <polygon fill="black" stroke="black" points="12900.19,-907.82 12908.1,-900.76 12897.52,-901.35 12900.19,-907.82"/>
@@ -167,7 +167,7 @@
 <text text-anchor="start" x="5052.81" y="-800.8" font-family="Times New Roman,serif" font-size="14.00">The parasite eats our food, drinks our water. Then steals our most holy Idol in thanks!</text>
 </g>
 <!-- n0cff5d6aef88bda14360acc99327e0e8&#45;&gt;n08cefaa7a4c129debe247908428d51eb -->
-<g id="edge25" class="edge">
+<g id="edge27" class="edge">
 <title>n0cff5d6aef88bda14360acc99327e0e8&#45;&gt;n08cefaa7a4c129debe247908428d51eb</title>
 <path fill="none" stroke="black" d="M5646.14,-812C5978.7,-812 6470.45,-812 6770.42,-812"/>
 <polygon fill="black" stroke="black" points="6770.56,-815.5 6780.56,-812 6770.56,-808.5 6770.56,-815.5"/>
@@ -186,7 +186,7 @@
 <text text-anchor="start" x="12549.57" y="-389.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n12272a0a855ab21c0b9809b20ad8e18d&#45;&gt;ne5dfa5e35043571f35f9476c3d243387 -->
-<g id="edge117" class="edge">
+<g id="edge119" class="edge">
 <title>n12272a0a855ab21c0b9809b20ad8e18d&#45;&gt;ne5dfa5e35043571f35f9476c3d243387</title>
 <path fill="none" stroke="black" d="M12155.83,-402.39C12288.26,-399.34 12450.47,-395.61 12524.2,-393.92"/>
 <polygon fill="black" stroke="black" points="12524.5,-397.41 12534.42,-393.68 12524.34,-390.41 12524.5,-397.41"/>
@@ -207,7 +207,7 @@
 <text text-anchor="start" x="12951.15" y="-728.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n1737500c0692c10e7f848f3ac6074a36&#45;&gt;n717f2e413349668bc64e1d2a420e61c8 -->
-<g id="edge110" class="edge">
+<g id="edge118" class="edge">
 <title>n1737500c0692c10e7f848f3ac6074a36&#45;&gt;n717f2e413349668bc64e1d2a420e61c8</title>
 <path fill="none" stroke="black" d="M12124.61,-619.63C12366.45,-651.95 12795.92,-709.32 12926.75,-726.8"/>
 <polygon fill="black" stroke="black" points="12926.34,-730.28 12936.71,-728.13 12927.26,-723.34 12926.34,-730.28"/>
@@ -259,7 +259,7 @@
 <text text-anchor="start" x="14828.48" y="-905.8" font-family="Times New Roman,serif" font-weight="bold" font-size="14.00">End dialog</text>
 </g>
 <!-- n2332fe66c311d1a62242b0e8f3021193&#45;&gt;nde3dca5b7b9d2350cf85ce958bca987b -->
-<g id="edge151" class="edge">
+<g id="edge143" class="edge">
 <title>n2332fe66c311d1a62242b0e8f3021193&#45;&gt;nde3dca5b7b9d2350cf85ce958bca987b</title>
 <path fill="none" stroke="black" d="M14669.47,-923C14688.47,-923 14708.13,-923 14727.99,-923"/>
 <polygon fill="black" stroke="black" points="14728.08,-926.5 14738.08,-923 14728.08,-919.5 14728.08,-926.5"/>
@@ -284,7 +284,7 @@
 <text text-anchor="start" x="10325.63" y="-1170.3" font-family="Times New Roman,serif" font-size="14.00" fill="red">Roll Failure</text>
 </g>
 <!-- n235caa659d394f1b725fb13265c17988&#45;&gt;n3bc74e7e42bc07acab2499b5967a2e55 -->
-<g id="edge72" class="edge">
+<g id="edge80" class="edge">
 <title>n235caa659d394f1b725fb13265c17988&#45;&gt;n3bc74e7e42bc07acab2499b5967a2e55</title>
 <path fill="none" stroke="black" d="M9978.51,-1189.51C10096.22,-1184.69 10222.48,-1179.52 10295.38,-1176.53"/>
 <polygon fill="black" stroke="black" points="10295.9,-1180.01 10305.74,-1176.1 10295.61,-1173.02 10295.9,-1180.01"/>
@@ -296,7 +296,7 @@
 <text text-anchor="start" x="10321.13" y="-1224.3" font-family="Times New Roman,serif" font-size="14.00" fill="green">Roll Success</text>
 </g>
 <!-- n235caa659d394f1b725fb13265c17988&#45;&gt;n505342c4f45a30c631749d4f90ad4fa5 -->
-<g id="edge71" class="edge">
+<g id="edge79" class="edge">
 <title>n235caa659d394f1b725fb13265c17988&#45;&gt;n505342c4f45a30c631749d4f90ad4fa5</title>
 <path fill="none" stroke="black" d="M9978.51,-1212.49C10093.28,-1217.19 10216.18,-1222.23 10289.83,-1225.24"/>
 <polygon fill="black" stroke="black" points="10289.75,-1228.74 10299.88,-1225.66 10290.04,-1221.75 10289.75,-1228.74"/>
@@ -328,7 +328,7 @@
 <text text-anchor="start" x="11781.69" y="-477.8" font-family="Times New Roman,serif" font-size="14.00">The devil sowed chaos. She remains until the rite is complete!</text>
 </g>
 <!-- n27c5eb61253320a9cce1763f9abd368c&#45;&gt;n61012382c6fc97e2ee0ec6145e734218 -->
-<g id="edge99" class="edge">
+<g id="edge84" class="edge">
 <title>n27c5eb61253320a9cce1763f9abd368c&#45;&gt;n61012382c6fc97e2ee0ec6145e734218</title>
 <path fill="none" stroke="black" d="M11541.31,-491.66C11578.83,-491.42 11632.66,-491.07 11689.1,-490.71"/>
 <polygon fill="black" stroke="black" points="11689.31,-494.21 11699.29,-490.64 11689.27,-487.21 11689.31,-494.21"/>
@@ -355,7 +355,7 @@
 <text text-anchor="start" x="10925.15" y="-1521.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;REALLY_SHADOWHEART == True</text>
 </g>
 <!-- n292f65d95ed72ddcc037b48e5c875c2b&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge119" class="edge">
+<g id="edge106" class="edge">
 <title>n292f65d95ed72ddcc037b48e5c875c2b&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11242.98,-1562.2C11295.04,-1571.5 11349.41,-1588.08 11393.97,-1617 11434.33,-1643.19 11462.1,-1693.5 11476.35,-1724.76"/>
 <polygon fill="black" stroke="black" points="11473.27,-1726.45 11480.5,-1734.19 11479.68,-1723.63 11473.27,-1726.45"/>
@@ -379,7 +379,7 @@
 <text text-anchor="start" x="14377.34" y="-1633.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;ORI_Inclusion_End_Random = True</text>
 </g>
 <!-- n294a7eeb519b359425a7de0a08684337&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge145" class="edge">
+<g id="edge146" class="edge">
 <title>n294a7eeb519b359425a7de0a08684337&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13956.11,-1040.11C14053.44,-1045.18 14160.76,-1066.78 14242.21,-1126 14405.29,-1244.58 14464.36,-1498.57 14482.42,-1604.29"/>
 <polygon fill="black" stroke="black" points="14479,-1605.06 14484.09,-1614.35 14485.91,-1603.91 14479,-1605.06"/>
@@ -425,7 +425,7 @@
 <text text-anchor="start" x="11165.15" y="-303.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">mind.</text>
 </g>
 <!-- n2d365ca554538de66927e15612715f9e&#45;&gt;nf2058cc854fbeeb8086abddbe7e042ee -->
-<g id="edge102" class="edge">
+<g id="edge85" class="edge">
 <title>n2d365ca554538de66927e15612715f9e&#45;&gt;nf2058cc854fbeeb8086abddbe7e042ee</title>
 <path fill="none" stroke="black" d="M10410.93,-307.52C10497.94,-308.4 10678.37,-310.22 10825.73,-311.71"/>
 <polygon fill="black" stroke="black" points="10825.8,-315.21 10835.84,-311.82 10825.87,-308.21 10825.8,-315.21"/>
@@ -445,7 +445,7 @@
 <text text-anchor="start" x="5829.5" y="-605.8" font-family="Times New Roman,serif" font-size="14.00">They are a blight, each and all. If I cannot choke it out, I will burn it away.</text>
 </g>
 <!-- n312b5259183ccab64ea2f2ef28d5a550&#45;&gt;nde3ee47e7dd52d2cfbb9e4139d20d5e2 -->
-<g id="edge37" class="edge">
+<g id="edge39" class="edge">
 <title>n312b5259183ccab64ea2f2ef28d5a550&#45;&gt;nde3ee47e7dd52d2cfbb9e4139d20d5e2</title>
 <path fill="none" stroke="black" d="M5438.3,-600.88C5522.77,-603.16 5632.84,-606.14 5735.37,-608.91"/>
 <polygon fill="black" stroke="black" points="5735.49,-612.42 5745.59,-609.19 5735.68,-605.42 5735.49,-612.42"/>
@@ -469,7 +469,7 @@
 <text text-anchor="start" x="10342.63" y="-541.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n3381a141c93ee10a73f16c2450d62cf2&#45;&gt;n7547a29ef6972c506c034b6687b9a11e -->
-<g id="edge77" class="edge">
+<g id="edge68" class="edge">
 <title>n3381a141c93ee10a73f16c2450d62cf2&#45;&gt;n7547a29ef6972c506c034b6687b9a11e</title>
 <path fill="none" stroke="black" d="M9889.56,-414.47C10040.82,-456.7 10239.43,-512.14 10320.39,-534.75"/>
 <polygon fill="black" stroke="black" points="10319.55,-538.14 10330.12,-537.46 10321.43,-531.4 10319.55,-538.14"/>
@@ -493,7 +493,7 @@
 <text text-anchor="start" x="10855.15" y="-674.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;1d54942c&#45;e707&#45;2b27&#45;c461&#45;bc033d258d04_Interfere = True</text>
 </g>
 <!-- n3719bc02f31996d300f399b88982a62c&#45;&gt;n6442f3e1b7dac49b5692b833b4a1cc21 -->
-<g id="edge97" class="edge">
+<g id="edge89" class="edge">
 <title>n3719bc02f31996d300f399b88982a62c&#45;&gt;n6442f3e1b7dac49b5692b833b4a1cc21</title>
 <path fill="none" stroke="black" d="M10388.02,-810.21C10455.2,-801.38 10627.79,-778.72 10780.19,-758.71"/>
 <polygon fill="black" stroke="black" points="10780.73,-762.17 10790.19,-757.4 10779.82,-755.23 10780.73,-762.17"/>
@@ -513,7 +513,7 @@
 <text text-anchor="start" x="5793.5" y="-685.8" font-family="Times New Roman,serif" font-size="14.00">The blight must be cut away for healing to begin. First, the spawn. The rest will follow.</text>
 </g>
 <!-- n39d9e865e21b64bc447e6618724d4723&#45;&gt;nd858bc41b48bca5e6ef2f1b4eed6a220 -->
-<g id="edge39" class="edge">
+<g id="edge36" class="edge">
 <title>n39d9e865e21b64bc447e6618724d4723&#45;&gt;nd858bc41b48bca5e6ef2f1b4eed6a220</title>
 <path fill="none" stroke="black" d="M5517.74,-678.14C5577.1,-680.3 5642.48,-682.69 5706.2,-685.02"/>
 <polygon fill="black" stroke="black" points="5706.29,-688.52 5716.41,-685.39 5706.55,-681.53 5706.29,-688.52"/>
@@ -535,7 +535,7 @@
 <text text-anchor="start" x="4166.47" y="-861.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;DEN_DruidLeader_Event_ToldCrime = True</text>
 </g>
 <!-- n3b076c5f8185cfeed1e5abbee85291ac&#45;&gt;nc0bc72b49c3857a5df3742255338db14 -->
-<g id="edge27" class="edge">
+<g id="edge26" class="edge">
 <title>n3b076c5f8185cfeed1e5abbee85291ac&#45;&gt;nc0bc72b49c3857a5df3742255338db14</title>
 <path fill="none" stroke="black" d="M3964.04,-887.44C3982.65,-887.47 4001.39,-887.49 4020.1,-887.51"/>
 <polygon fill="black" stroke="black" points="4020.19,-891.01 4030.19,-887.52 4020.2,-884.01 4020.19,-891.01"/>
@@ -548,7 +548,7 @@
 <text text-anchor="start" x="11781.19" y="-742.8" font-family="Times New Roman,serif" font-size="14.00">I&#39;ve heard enough. The devil remains until the rite is complete!</text>
 </g>
 <!-- n3bc74e7e42bc07acab2499b5967a2e55&#45;&gt;n811e55e696ad277edbfc2b0c550f91b5 -->
-<g id="edge85" class="edge">
+<g id="edge91" class="edge">
 <title>n3bc74e7e42bc07acab2499b5967a2e55&#45;&gt;n811e55e696ad277edbfc2b0c550f91b5</title>
 <path fill="none" stroke="black" d="M10395.7,-1161.29C10531.27,-1114.54 11018.44,-949.68 11429.97,-850 11552.69,-820.28 11693.56,-794.92 11798.19,-777.75"/>
 <polygon fill="black" stroke="black" points="11798.9,-781.18 11808.2,-776.11 11797.77,-774.27 11798.9,-781.18"/>
@@ -567,7 +567,7 @@
 <text text-anchor="start" x="7863.18" y="-14.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n4117390cfc40154c92fa8e6eb4516319&#45;&gt;n4f0f5187ba41b7bad6ab8c771b5ca7ba -->
-<g id="edge48" class="edge">
+<g id="edge49" class="edge">
 <title>n4117390cfc40154c92fa8e6eb4516319&#45;&gt;n4f0f5187ba41b7bad6ab8c771b5ca7ba</title>
 <path fill="none" stroke="black" d="M7078.44,-399.51C7226.57,-328.8 7714.45,-95.91 7845.2,-33.5"/>
 <polygon fill="black" stroke="black" points="7846.82,-36.61 7854.33,-29.14 7843.8,-30.29 7846.82,-36.61"/>
@@ -600,7 +600,7 @@
 <text text-anchor="start" x="7746.18" y="-802.8" font-family="Times New Roman,serif" font-size="14.00">Come, Kagha. We took back the Idol. Surely...</text>
 </g>
 <!-- n430694e95ed22f520598898cde99d376&#45;&gt;nf10b14d0f534a0ad4a7dd70ff72d9c4a -->
-<g id="edge38" class="edge">
+<g id="edge37" class="edge">
 <title>n430694e95ed22f520598898cde99d376&#45;&gt;nf10b14d0f534a0ad4a7dd70ff72d9c4a</title>
 <path fill="none" stroke="black" d="M7643.97,-813.4C7652.45,-813.43 7661.03,-813.45 7669.64,-813.47"/>
 <polygon fill="black" stroke="black" points="7669.75,-816.97 7679.76,-813.5 7669.77,-809.97 7669.75,-816.97"/>
@@ -705,7 +705,7 @@
 <text text-anchor="start" x="12956.65" y="-348.8" font-family="Times New Roman,serif" font-size="14.00">Rath.</text>
 </g>
 <!-- n4f0f5187ba41b7bad6ab8c771b5ca7ba&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge51" class="edge">
+<g id="edge50" class="edge">
 <title>n4f0f5187ba41b7bad6ab8c771b5ca7ba&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M7909.23,-17.91C7991.71,-17.66 8231.36,-17 8430.51,-17 8430.51,-17 8430.51,-17 11955.19,-17 12325.6,-17 12435.53,-36.17 12768.72,-198 12835.84,-230.6 12900.16,-290.31 12936.12,-327.14"/>
 <polygon fill="black" stroke="black" points="12933.89,-329.87 12943.36,-334.63 12938.93,-325.01 12933.89,-329.87"/>
@@ -717,7 +717,7 @@
 <text text-anchor="start" x="12549.57" y="-873.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n4f532fe690577c2648b24bec5305423f&#45;&gt;ndf6ba99a99fbe8588659308b48a0a621 -->
-<g id="edge127" class="edge">
+<g id="edge121" class="edge">
 <title>n4f532fe690577c2648b24bec5305423f&#45;&gt;ndf6ba99a99fbe8588659308b48a0a621</title>
 <path fill="none" stroke="black" d="M12595.78,-877C12638.1,-877 12718.99,-877 12794.36,-877"/>
 <polygon fill="black" stroke="black" points="12794.47,-880.5 12804.47,-877 12794.47,-873.5 12794.47,-880.5"/>
@@ -819,7 +819,7 @@
 <g id="node66" class="node">
 <title>n8888f585006f6f7b30291ddd09b307c0</title>
 <ellipse fill="none" stroke="black" cx="9697.04" cy="-208" rx="301.87" ry="55.31"/>
-<text text-anchor="start" x="9491.54" y="-232.8" font-family="Times New Roman,serif" font-size="14.00" fill="blue">ActiveRoll RawAbility Wisdom DC 0</text>
+<text text-anchor="start" x="9491.54" y="-232.8" font-family="Times New Roman,serif" font-size="14.00" fill="blue">ActiveRoll RawAbility Intelligence DC 14</text>
 <text text-anchor="start" x="9491.54" y="-218.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Detect Thoughts</text>
 <text text-anchor="start" x="9491.54" y="-204.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">Read Kagha&#39;s mind.</text>
 <text text-anchor="start" x="9491.54" y="-190.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Check flags:</text>
@@ -919,7 +919,7 @@
 <polygon fill="black" stroke="black" points="10800.31,-576.5 10809.88,-571.95 10799.56,-569.54 10800.31,-576.5"/>
 </g>
 <!-- n505342c4f45a30c631749d4f90ad4fa5&#45;&gt;n0b5ca4a6aadb9e7a49713dc8d1663ce6 -->
-<g id="edge103" class="edge">
+<g id="edge86" class="edge">
 <title>n505342c4f45a30c631749d4f90ad4fa5&#45;&gt;n0b5ca4a6aadb9e7a49713dc8d1663ce6</title>
 <path fill="none" stroke="black" d="M10408.31,-1237.3C10474.91,-1247.1 10594.8,-1254.57 10676.32,-1201 10704.57,-1182.44 10683.75,-1152.06 10712.32,-1134 10987.96,-959.77 11987.27,-1003.7 12392.05,-1029.6"/>
 <polygon fill="black" stroke="black" points="12391.88,-1033.1 12402.09,-1030.25 12392.33,-1026.11 12391.88,-1033.1"/>
@@ -964,7 +964,7 @@
 <text text-anchor="start" x="10222.63" y="-1542.8" font-family="Times New Roman,serif" font-size="14.00">Silence. I answer only to mistress.</text>
 </g>
 <!-- n5362aeb40b82688a44696f0fe39fb974&#45;&gt;nfc73c2c0142dbe9c8f132ed7298c8d0c -->
-<g id="edge79" class="edge">
+<g id="edge72" class="edge">
 <title>n5362aeb40b82688a44696f0fe39fb974&#45;&gt;nfc73c2c0142dbe9c8f132ed7298c8d0c</title>
 <path fill="none" stroke="black" d="M9941.12,-1554C10007.9,-1554 10079.77,-1554 10144.67,-1554"/>
 <polygon fill="black" stroke="black" points="10145.03,-1557.5 10155.03,-1554 10145.03,-1550.5 10145.03,-1557.5"/>
@@ -976,7 +976,7 @@
 <text text-anchor="start" x="11938.69" y="-132.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n59c4d9ad552212aebfb03c5c00c80436&#45;&gt;nd7897d2974fdf0ff5122d9bdccc34bb5 -->
-<g id="edge68" class="edge">
+<g id="edge76" class="edge">
 <title>n59c4d9ad552212aebfb03c5c00c80436&#45;&gt;nd7897d2974fdf0ff5122d9bdccc34bb5</title>
 <path fill="none" stroke="black" d="M9923.04,-94.59C10437.7,-105.09 11674.78,-130.32 11913.1,-135.18"/>
 <polygon fill="black" stroke="black" points="11913.3,-138.69 11923.37,-135.39 11913.44,-131.69 11913.3,-138.69"/>
@@ -988,7 +988,7 @@
 <text text-anchor="start" x="12549.57" y="-457.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n5c6d7a3b88263c536c4847c0f58e9718&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge122" class="edge">
+<g id="edge127" class="edge">
 <title>n5c6d7a3b88263c536c4847c0f58e9718&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M12594.8,-456.13C12634.27,-449.22 12707.34,-435.67 12768.72,-420 12814.44,-408.33 12865.29,-392.5 12903.87,-379.89"/>
 <polygon fill="black" stroke="black" points="12904.99,-383.21 12913.4,-376.76 12902.81,-376.56 12904.99,-383.21"/>
@@ -1001,7 +1001,7 @@
 <text text-anchor="start" x="3261.11" y="-957.8" font-family="Times New Roman,serif" font-size="14.00">Perhaps you don&#39;t know that Silvanus spoke further. &#39;The parasite must be removed for new seed to grow.&#39;</text>
 </g>
 <!-- n5f5ba4ba0c079d90cc0d7d9582c2fd37&#45;&gt;nc0bc72b49c3857a5df3742255338db14 -->
-<g id="edge26" class="edge">
+<g id="edge25" class="edge">
 <title>n5f5ba4ba0c079d90cc0d7d9582c2fd37&#45;&gt;nc0bc72b49c3857a5df3742255338db14</title>
 <path fill="none" stroke="black" d="M3808.04,-946.92C3903.58,-938.38 4014.65,-928.44 4118.08,-919.2"/>
 <polygon fill="black" stroke="black" points="4118.41,-922.68 4128.06,-918.3 4117.79,-915.71 4118.41,-922.68"/>
@@ -1023,7 +1023,7 @@
 <polygon fill="black" stroke="black" points="11482.69,-1724.25 11486.84,-1734 11489.67,-1723.79 11482.69,-1724.25"/>
 </g>
 <!-- n61012382c6fc97e2ee0ec6145e734218&#45;&gt;n5c6d7a3b88263c536c4847c0f58e9718 -->
-<g id="edge115" class="edge">
+<g id="edge114" class="edge">
 <title>n61012382c6fc97e2ee0ec6145e734218&#45;&gt;n5c6d7a3b88263c536c4847c0f58e9718</title>
 <path fill="none" stroke="black" d="M12188.43,-478.27C12313.92,-472.5 12456.51,-465.95 12524.26,-462.83"/>
 <polygon fill="black" stroke="black" points="12524.65,-466.32 12534.48,-462.36 12524.33,-459.32 12524.65,-466.32"/>
@@ -1036,13 +1036,13 @@
 <text text-anchor="start" x="2699.97" y="-875.8" font-family="Times New Roman,serif" font-size="14.00">The Treefather&#39;s words. Your circle taught well.</text>
 </g>
 <!-- n61d2668e9cabdbd21bf45af4e22d5d62&#45;&gt;n3b076c5f8185cfeed1e5abbee85291ac -->
-<g id="edge23" class="edge">
+<g id="edge18" class="edge">
 <title>n61d2668e9cabdbd21bf45af4e22d5d62&#45;&gt;n3b076c5f8185cfeed1e5abbee85291ac</title>
 <path fill="none" stroke="black" d="M3035.24,-887C3070.21,-887 3107.71,-887 3145.99,-887"/>
 <polygon fill="black" stroke="black" points="3146.27,-890.5 3156.27,-887 3146.27,-883.5 3146.27,-890.5"/>
 </g>
 <!-- n6442f3e1b7dac49b5692b833b4a1cc21&#45;&gt;n27c5eb61253320a9cce1763f9abd368c -->
-<g id="edge70" class="edge">
+<g id="edge71" class="edge">
 <title>n6442f3e1b7dac49b5692b833b4a1cc21&#45;&gt;n27c5eb61253320a9cce1763f9abd368c</title>
 <path fill="none" stroke="black" d="M11309.38,-684.83C11340.23,-672.28 11369.44,-655.74 11393.97,-634 11426.53,-605.15 11405.02,-578.63 11429.97,-543 11437.33,-532.5 11447.26,-522.69 11456.8,-514.54"/>
 <polygon fill="black" stroke="black" points="11459.14,-517.15 11464.66,-508.11 11454.71,-511.74 11459.14,-517.15"/>
@@ -1054,7 +1054,7 @@
 <text text-anchor="start" x="11451.47" y="-873.3" font-family="Times New Roman,serif" font-size="14.00" fill="green">Roll Success</text>
 </g>
 <!-- n6442f3e1b7dac49b5692b833b4a1cc21&#45;&gt;ne93d14e81388b9e858a55a9ec3bcb2db -->
-<g id="edge69" class="edge">
+<g id="edge70" class="edge">
 <title>n6442f3e1b7dac49b5692b833b4a1cc21&#45;&gt;ne93d14e81388b9e858a55a9ec3bcb2db</title>
 <path fill="none" stroke="black" d="M11231.96,-786.19C11307.51,-813.04 11389.57,-842.21 11439.77,-860.05"/>
 <polygon fill="black" stroke="black" points="11438.78,-863.41 11449.37,-863.46 11441.12,-856.81 11438.78,-863.41"/>
@@ -1076,7 +1076,7 @@
 <text text-anchor="start" x="12526.57" y="-1766.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Answer(&#45;666)</text>
 </g>
 <!-- n659e5833a8292a80d3b68eb1af38d0b9&#45;&gt;nac0a029661d5048929e56da05a4f0a99 -->
-<g id="edge114" class="edge">
+<g id="edge117" class="edge">
 <title>n659e5833a8292a80d3b68eb1af38d0b9&#45;&gt;nac0a029661d5048929e56da05a4f0a99</title>
 <path fill="none" stroke="black" d="M12174.15,-1770C12286.89,-1770 12416.63,-1770 12494.4,-1770"/>
 <polygon fill="black" stroke="black" points="12494.56,-1773.5 12504.56,-1770 12494.56,-1766.5 12494.56,-1773.5"/>
@@ -1099,7 +1099,7 @@
 <text text-anchor="start" x="8873.59" y="-803.8" font-family="Times New Roman,serif" font-size="14.00">, I beg you.</text>
 </g>
 <!-- n6a6404b6730044f294372b626144e81c&#45;&gt;n96c1929510804d2a9a86422975372f27 -->
-<g id="edge49" class="edge">
+<g id="edge48" class="edge">
 <title>n6a6404b6730044f294372b626144e81c&#45;&gt;n96c1929510804d2a9a86422975372f27</title>
 <path fill="none" stroke="black" d="M8566.82,-814C8575.16,-814 8583.65,-814 8592.21,-814"/>
 <polygon fill="black" stroke="black" points="8592.29,-817.5 8602.29,-814 8592.29,-810.5 8592.29,-817.5"/>
@@ -1115,7 +1115,7 @@
 <text text-anchor="start" x="10909.15" y="-1252.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;REALLY_MINSC == True</text>
 </g>
 <!-- n6be479d4e5f7506352df4e7aea681690&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge111" class="edge">
+<g id="edge107" class="edge">
 <title>n6be479d4e5f7506352df4e7aea681690&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11267.84,-1290.49C11314.34,-1301 11359.79,-1320.01 11393.97,-1353 11447.87,-1405.01 11476.35,-1641.36 11484.77,-1723.65"/>
 <polygon fill="black" stroke="black" points="11481.3,-1724.17 11485.78,-1733.77 11488.27,-1723.47 11481.3,-1724.17"/>
@@ -1140,7 +1140,7 @@
 <text text-anchor="start" x="16146.41" y="-327.8" font-family="Times New Roman,serif" font-weight="bold" font-size="14.00">End dialog</text>
 </g>
 <!-- n709c463dbcc10c943c8ced294b929328&#45;&gt;n9684a400b5fc60be5440e156e85371e6 -->
-<g id="edge158" class="edge">
+<g id="edge159" class="edge">
 <title>n709c463dbcc10c943c8ced294b929328&#45;&gt;n9684a400b5fc60be5440e156e85371e6</title>
 <path fill="none" stroke="black" d="M16005.68,-359C16014,-359 16022.48,-359 16031.07,-359"/>
 <polygon fill="black" stroke="black" points="16031.2,-362.5 16041.2,-359 16031.2,-355.5 16031.2,-362.5"/>
@@ -1157,7 +1157,7 @@
 <text text-anchor="start" x="13521.39" y="-832.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;DEN_ShadowDruid_State_FreedChild = True</text>
 </g>
 <!-- n717f2e413349668bc64e1d2a420e61c8&#45;&gt;n7fff3b631deae81177d2f6d618158138 -->
-<g id="edge130" class="edge">
+<g id="edge129" class="edge">
 <title>n717f2e413349668bc64e1d2a420e61c8&#45;&gt;n7fff3b631deae81177d2f6d618158138</title>
 <path fill="none" stroke="black" d="M12996,-737.48C13074.81,-752.71 13302.29,-796.67 13478.02,-830.64"/>
 <polygon fill="black" stroke="black" points="13477.45,-834.09 13487.93,-832.55 13478.78,-827.22 13477.45,-834.09"/>
@@ -1297,7 +1297,7 @@
 <text text-anchor="start" x="6569.36" y="-709.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- n74644ce611a7511e149c16630964b88d&#45;&gt;n08cefaa7a4c129debe247908428d51eb -->
-<g id="edge46" class="edge">
+<g id="edge45" class="edge">
 <title>n74644ce611a7511e149c16630964b88d&#45;&gt;n08cefaa7a4c129debe247908428d51eb</title>
 <path fill="none" stroke="black" d="M6613.86,-719.19C6672.58,-732.18 6811.6,-762.92 6913.61,-785.48"/>
 <polygon fill="black" stroke="black" points="6913.15,-788.97 6923.67,-787.71 6914.66,-782.13 6913.15,-788.97"/>
@@ -1311,13 +1311,13 @@
 <text text-anchor="start" x="14592.84" y="-348.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">done?</text>
 </g>
 <!-- n74fd30791fa3e0c54e708c9d2952d9fb&#45;&gt;n06ce3e85b17745cbdd6a4648f374e640 -->
-<g id="edge148" class="edge">
+<g id="edge149" class="edge">
 <title>n74fd30791fa3e0c54e708c9d2952d9fb&#45;&gt;n06ce3e85b17745cbdd6a4648f374e640</title>
 <path fill="none" stroke="black" d="M14697.77,-359C14730.91,-359 14765.3,-359 14798.71,-359"/>
 <polygon fill="black" stroke="black" points="14799.05,-362.5 14809.05,-359 14799.05,-355.5 14799.05,-362.5"/>
 </g>
 <!-- n7547a29ef6972c506c034b6687b9a11e&#45;&gt;nc98a8ebfda4ce63775a97b721d297c68 -->
-<g id="edge100" class="edge">
+<g id="edge88" class="edge">
 <title>n7547a29ef6972c506c034b6687b9a11e&#45;&gt;nc98a8ebfda4ce63775a97b721d297c68</title>
 <path fill="none" stroke="black" d="M10388.9,-545C10457.42,-545 10632.09,-545 10784.98,-545"/>
 <polygon fill="black" stroke="black" points="10785.02,-548.5 10795.02,-545 10785.02,-541.5 10785.02,-548.5"/>
@@ -1344,7 +1344,7 @@
 <polygon fill="black" stroke="black" points="2574.68,-980.25 2584.72,-976.87 2574.77,-973.25 2574.68,-980.25"/>
 </g>
 <!-- n79866c2f938d07dd6ac8b1816d8de2f0&#45;&gt;n659e5833a8292a80d3b68eb1af38d0b9 -->
-<g id="edge129" class="edge">
+<g id="edge128" class="edge">
 <title>n79866c2f938d07dd6ac8b1816d8de2f0&#45;&gt;n659e5833a8292a80d3b68eb1af38d0b9</title>
 <path fill="none" stroke="black" d="M11519.18,-1753.15C11561.84,-1754.81 11644.32,-1758.01 11726.02,-1761.18"/>
 <polygon fill="black" stroke="black" points="11726.37,-1764.7 11736.5,-1761.59 11726.64,-1757.7 11726.37,-1764.7"/>
@@ -1359,31 +1359,31 @@
 <text text-anchor="start" x="15059.48" y="-1947.8" font-family="Times New Roman,serif" font-size="14.00"> say it again.</text>
 </g>
 <!-- n7a6cce58a4ec60a1eedda7c5a0a052d2&#45;&gt;ncbc6450c227574fb52a8f8278a5f13c7 -->
-<g id="edge154" class="edge">
+<g id="edge155" class="edge">
 <title>n7a6cce58a4ec60a1eedda7c5a0a052d2&#45;&gt;ncbc6450c227574fb52a8f8278a5f13c7</title>
 <path fill="none" stroke="black" d="M14551.69,-1687.1C14656.13,-1747.84 14868.73,-1871.49 14966.37,-1928.27"/>
 <polygon fill="black" stroke="black" points="14964.77,-1931.39 14975.17,-1933.39 14968.29,-1925.34 14964.77,-1931.39"/>
 </g>
 <!-- n7e55ea81ba609cf355f0c8a39ef50f1a&#45;&gt;n3bc74e7e42bc07acab2499b5967a2e55 -->
-<g id="edge67" class="edge">
+<g id="edge82" class="edge">
 <title>n7e55ea81ba609cf355f0c8a39ef50f1a&#45;&gt;n3bc74e7e42bc07acab2499b5967a2e55</title>
 <path fill="none" stroke="black" d="M9932.61,-1349.5C9958.79,-1336.79 9983.37,-1320.9 10003.93,-1301 10037.87,-1268.15 10002.47,-1229.78 10039.93,-1201 10116.11,-1142.47 10235.08,-1150.98 10303.61,-1162.47"/>
 <polygon fill="black" stroke="black" points="10303.3,-1165.97 10313.75,-1164.25 10304.51,-1159.07 10303.3,-1165.97"/>
 </g>
 <!-- n7e55ea81ba609cf355f0c8a39ef50f1a&#45;&gt;n505342c4f45a30c631749d4f90ad4fa5 -->
-<g id="edge66" class="edge">
+<g id="edge81" class="edge">
 <title>n7e55ea81ba609cf355f0c8a39ef50f1a&#45;&gt;n505342c4f45a30c631749d4f90ad4fa5</title>
 <path fill="none" stroke="black" d="M9917.05,-1342.85C10053.83,-1307.15 10219.35,-1263.95 10303.05,-1242.11"/>
 <polygon fill="black" stroke="black" points="10304.05,-1245.47 10312.84,-1239.56 10302.28,-1238.7 10304.05,-1245.47"/>
 </g>
 <!-- n7fff3b631deae81177d2f6d618158138&#45;&gt;n2332fe66c311d1a62242b0e8f3021193 -->
-<g id="edge133" class="edge">
+<g id="edge132" class="edge">
 <title>n7fff3b631deae81177d2f6d618158138&#45;&gt;n2332fe66c311d1a62242b0e8f3021193</title>
 <path fill="none" stroke="black" d="M13964.68,-890.25C14079.67,-897.43 14211.8,-905.67 14314.69,-912.1"/>
 <polygon fill="black" stroke="black" points="14314.68,-915.6 14324.87,-912.73 14315.11,-908.62 14314.68,-915.6"/>
 </g>
 <!-- n811e55e696ad277edbfc2b0c550f91b5&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge104" class="edge">
+<g id="edge115" class="edge">
 <title>n811e55e696ad277edbfc2b0c550f91b5&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M12059.05,-729.45C12217.04,-690.05 12525.13,-605.06 12768.72,-488 12827.28,-459.86 12889.05,-416.92 12927.46,-388.42"/>
 <polygon fill="black" stroke="black" points="12929.85,-391 12935.77,-382.21 12925.66,-385.39 12929.85,-391"/>
@@ -1415,13 +1415,13 @@
 <text text-anchor="start" x="10141.13" y="-1642.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;DEN_ShadowDruid_State_FreedChild = True</text>
 </g>
 <!-- n82ec9ed332ff1ff9ca1c5eded423f699&#45;&gt;nee1d276525304f7aa4c544f8d2c09ba4 -->
-<g id="edge82" class="edge">
+<g id="edge69" class="edge">
 <title>n82ec9ed332ff1ff9ca1c5eded423f699&#45;&gt;nee1d276525304f7aa4c544f8d2c09ba4</title>
 <path fill="none" stroke="black" d="M10002.99,-1689.6C10012.62,-1689.36 10022.27,-1689.13 10031.93,-1688.89"/>
 <polygon fill="black" stroke="black" points="10032.07,-1692.39 10041.98,-1688.65 10031.9,-1685.39 10032.07,-1692.39"/>
 </g>
 <!-- n82fb2e0fdafa37178cb6ff85ee30fd9b&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge149" class="edge">
+<g id="edge144" class="edge">
 <title>n82fb2e0fdafa37178cb6ff85ee30fd9b&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13894.3,-2114.19C14003.71,-2110.87 14139.47,-2091.32 14242.21,-2026 14366.37,-1947.05 14441.93,-1780.72 14472.95,-1699.14"/>
 <polygon fill="black" stroke="black" points="14476.29,-1700.22 14476.52,-1689.63 14469.73,-1697.76 14476.29,-1700.22"/>
@@ -1434,13 +1434,13 @@
 <text text-anchor="start" x="13663.89" y="-347.8" font-family="Times New Roman,serif" font-size="14.00">No!</text>
 </g>
 <!-- n84ed2f07fa47952ac9743038d231c578&#45;&gt;nadfdfb632be609da83e43a053f7cd15b -->
-<g id="edge128" class="edge">
+<g id="edge126" class="edge">
 <title>n84ed2f07fa47952ac9743038d231c578&#45;&gt;nadfdfb632be609da83e43a053f7cd15b</title>
 <path fill="none" stroke="black" d="M13040.45,-359C13179.88,-359 13483.38,-359 13625.76,-359"/>
 <polygon fill="black" stroke="black" points="13626.14,-362.5 13636.14,-359 13626.14,-355.5 13626.14,-362.5"/>
 </g>
 <!-- n857b5ffa611f767fb043f893c8a59c10&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge153" class="edge">
+<g id="edge152" class="edge">
 <title>n857b5ffa611f767fb043f893c8a59c10&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13895.7,-1944.02C14001.93,-1936.62 14134.06,-1916.72 14242.21,-1867 14328.77,-1827.2 14407.88,-1747.41 14452.21,-1697.02"/>
 <polygon fill="black" stroke="black" points="14455.1,-1699.04 14459.03,-1689.2 14449.82,-1694.44 14455.1,-1699.04"/>
@@ -1454,31 +1454,31 @@
 <text text-anchor="start" x="2854.47" y="-587.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">parasite.</text>
 </g>
 <!-- n8656dd1a77c013bca19657b2d8b5de3d&#45;&gt;n8f62a7984950453abc866f33b667fb54 -->
-<g id="edge15" class="edge">
+<g id="edge17" class="edge">
 <title>n8656dd1a77c013bca19657b2d8b5de3d&#45;&gt;n8f62a7984950453abc866f33b667fb54</title>
 <path fill="none" stroke="black" d="M2292.01,-576.88C2432.89,-582.38 2601.71,-588.97 2712.86,-593.31"/>
 <polygon fill="black" stroke="black" points="2712.97,-596.82 2723.09,-593.71 2713.24,-589.82 2712.97,-596.82"/>
 </g>
 <!-- n8888f585006f6f7b30291ddd09b307c0&#45;&gt;n086d1dc36b9d9d2becd30f90fd7a64cb -->
-<g id="edge75" class="edge">
+<g id="edge74" class="edge">
 <title>n8888f585006f6f7b30291ddd09b307c0&#45;&gt;n086d1dc36b9d9d2becd30f90fd7a64cb</title>
 <path fill="none" stroke="black" d="M9999.13,-208C10107.39,-208 10219.77,-208 10289.08,-208"/>
 <polygon fill="black" stroke="black" points="10289.4,-211.5 10299.4,-208 10289.4,-204.5 10289.4,-211.5"/>
 </g>
 <!-- n8888f585006f6f7b30291ddd09b307c0&#45;&gt;n2d365ca554538de66927e15612715f9e -->
-<g id="edge76" class="edge">
+<g id="edge75" class="edge">
 <title>n8888f585006f6f7b30291ddd09b307c0&#45;&gt;n2d365ca554538de66927e15612715f9e</title>
 <path fill="none" stroke="black" d="M9930.87,-242.97C10062.86,-262.8 10217.54,-286.03 10299.44,-298.33"/>
 <polygon fill="black" stroke="black" points="10299.13,-301.83 10309.54,-299.85 10300.17,-294.91 10299.13,-301.83"/>
 </g>
 <!-- n8f62a7984950453abc866f33b667fb54&#45;&gt;n1dd7c3e56bce255ab2400277a55f32bb -->
-<g id="edge20" class="edge">
+<g id="edge19" class="edge">
 <title>n8f62a7984950453abc866f33b667fb54&#45;&gt;n1dd7c3e56bce255ab2400277a55f32bb</title>
 <path fill="none" stroke="black" d="M2930.01,-611.26C3045.14,-627.31 3241.38,-654.69 3384.13,-674.6"/>
 <polygon fill="black" stroke="black" points="3383.93,-678.1 3394.31,-676.02 3384.89,-671.17 3383.93,-678.1"/>
 </g>
 <!-- n8fa92550cabc008df8cd588a8a5b9c68&#45;&gt;n3719bc02f31996d300f399b88982a62c -->
-<g id="edge74" class="edge">
+<g id="edge73" class="edge">
 <title>n8fa92550cabc008df8cd588a8a5b9c68&#45;&gt;n3719bc02f31996d300f399b88982a62c</title>
 <path fill="none" stroke="black" d="M9988.56,-814C10116.06,-814 10251.45,-814 10316.97,-814"/>
 <polygon fill="black" stroke="black" points="10317.24,-817.5 10327.24,-814 10317.24,-810.5 10317.24,-817.5"/>
@@ -1492,7 +1492,7 @@
 <text text-anchor="start" x="5864" y="-516.8" font-family="Times New Roman,serif" font-size="14.00">Rath &#45; lock her up. She remains here until the rite is complete.</text>
 </g>
 <!-- n9411f5d1af1cf2fc446ca0cf66fa2c78&#45;&gt;nff9e3438d6ebe19c8c48b374449525ff -->
-<g id="edge36" class="edge">
+<g id="edge38" class="edge">
 <title>n9411f5d1af1cf2fc446ca0cf66fa2c78&#45;&gt;nff9e3438d6ebe19c8c48b374449525ff</title>
 <path fill="none" stroke="black" d="M5543.43,-521.99C5616.67,-521.69 5697.05,-521.37 5771.18,-521.07"/>
 <polygon fill="black" stroke="black" points="5771.61,-524.57 5781.6,-521.03 5771.58,-517.57 5771.61,-524.57"/>
@@ -1504,13 +1504,13 @@
 <polygon fill="black" stroke="black" points="4198.52,-555.98 4208.61,-552.73 4198.69,-548.98 4198.52,-555.98"/>
 </g>
 <!-- n96c1929510804d2a9a86422975372f27&#45;&gt;n4f582b161f9d48638528a3c3bf38c9b2 -->
-<g id="edge50" class="edge">
+<g id="edge51" class="edge">
 <title>n96c1929510804d2a9a86422975372f27&#45;&gt;n4f582b161f9d48638528a3c3bf38c9b2</title>
 <path fill="none" stroke="black" d="M9005.87,-814C9014.36,-814 9022.84,-814 9031.24,-814"/>
 <polygon fill="black" stroke="black" points="9031.45,-817.5 9041.45,-814 9031.45,-810.5 9031.45,-817.5"/>
 </g>
 <!-- n988a8142e98e1edfb550f0295b9604b0&#45;&gt;n7547a29ef6972c506c034b6687b9a11e -->
-<g id="edge65" class="edge">
+<g id="edge77" class="edge">
 <title>n988a8142e98e1edfb550f0295b9604b0&#45;&gt;n7547a29ef6972c506c034b6687b9a11e</title>
 <path fill="none" stroke="black" d="M9955.22,-547.44C10091.63,-546.61 10245.44,-545.68 10316.79,-545.24"/>
 <polygon fill="black" stroke="black" points="10317.13,-548.74 10327.11,-545.18 10317.09,-541.74 10317.13,-548.74"/>
@@ -1538,7 +1538,7 @@
 <text text-anchor="start" x="10912.15" y="-2056.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;REALLY_WYLL == True</text>
 </g>
 <!-- n9fa73005a0c2f2725b55fd4642e1b1ab&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge109" class="edge">
+<g id="edge105" class="edge">
 <title>n9fa73005a0c2f2725b55fd4642e1b1ab&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11262.84,-2083.54C11310.33,-2073.22 11357.47,-2054.8 11393.97,-2023 11466.98,-1959.41 11483.02,-1835.98 11486.51,-1780.37"/>
 <polygon fill="black" stroke="black" points="11490.02,-1780.36 11487.06,-1770.19 11483.03,-1779.99 11490.02,-1780.36"/>
@@ -1550,7 +1550,7 @@
 <text text-anchor="start" x="11455.97" y="-418.3" font-family="Times New Roman,serif" font-size="14.00" fill="red">Roll Failure</text>
 </g>
 <!-- na12fd08151f2b5afdc7efa6bd7939854&#45;&gt;n12272a0a855ab21c0b9809b20ad8e18d -->
-<g id="edge98" class="edge">
+<g id="edge94" class="edge">
 <title>na12fd08151f2b5afdc7efa6bd7939854&#45;&gt;n12272a0a855ab21c0b9809b20ad8e18d</title>
 <path fill="none" stroke="black" d="M11541.31,-420.32C11591.25,-418.71 11670.1,-416.16 11745.5,-413.72"/>
 <polygon fill="black" stroke="black" points="11745.75,-417.21 11755.64,-413.39 11745.53,-410.22 11745.75,-417.21"/>
@@ -1563,19 +1563,19 @@
 <text text-anchor="start" x="8142.91" y="-803.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">Do it.</text>
 </g>
 <!-- na9674c0da51011e3682f720917ede73d&#45;&gt;n6a6404b6730044f294372b626144e81c -->
-<g id="edge47" class="edge">
+<g id="edge46" class="edge">
 <title>na9674c0da51011e3682f720917ede73d&#45;&gt;n6a6404b6730044f294372b626144e81c</title>
 <path fill="none" stroke="black" d="M8260.7,-814C8268.82,-814 8277.3,-814 8285.93,-814"/>
 <polygon fill="black" stroke="black" points="8286.14,-817.5 8296.14,-814 8286.14,-810.5 8286.14,-817.5"/>
 </g>
 <!-- nab4821226d22b817ebb2c4465103d8ae&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge146" class="edge">
+<g id="edge147" class="edge">
 <title>nab4821226d22b817ebb2c4465103d8ae&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13890.06,-1784.6C13994.37,-1774.33 14126.47,-1757.7 14242.21,-1732 14293.07,-1720.71 14348.36,-1703.31 14393.71,-1687.62"/>
 <polygon fill="black" stroke="black" points="14394.95,-1690.9 14403.24,-1684.31 14392.64,-1684.29 14394.95,-1690.9"/>
 </g>
 <!-- nac0a029661d5048929e56da05a4f0a99&#45;&gt;n73ea9ed5e52d11878ac4d8ae9fec33dc -->
-<g id="edge123" class="edge">
+<g id="edge124" class="edge">
 <title>nac0a029661d5048929e56da05a4f0a99&#45;&gt;n73ea9ed5e52d11878ac4d8ae9fec33dc</title>
 <path fill="none" stroke="black" d="M12608.83,-1757.37C12677,-1737.24 12811.06,-1697.65 12894.04,-1673.15"/>
 <polygon fill="black" stroke="black" points="12895.05,-1676.5 12903.65,-1670.31 12893.07,-1669.78 12895.05,-1676.5"/>
@@ -1588,7 +1588,7 @@
 <text text-anchor="start" x="12903.15" y="-1940.8" font-family="Times New Roman,serif" font-style="italic" font-size="14.00">Carry out your attack.</text>
 </g>
 <!-- nac0a029661d5048929e56da05a4f0a99&#45;&gt;nb4820c51b2092571a2a35ffc3f0d1a4f -->
-<g id="edge124" class="edge">
+<g id="edge125" class="edge">
 <title>nac0a029661d5048929e56da05a4f0a99&#45;&gt;nb4820c51b2092571a2a35ffc3f0d1a4f</title>
 <path fill="none" stroke="black" d="M12599.11,-1784.97C12666.88,-1815.66 12822.36,-1886.09 12907.42,-1924.62"/>
 <polygon fill="black" stroke="black" points="12906.13,-1927.88 12916.68,-1928.82 12909.02,-1921.51 12906.13,-1927.88"/>
@@ -1608,7 +1608,7 @@
 <polygon fill="black" stroke="black" points="10198.22,-1823.5 10208.22,-1820 10198.22,-1816.5 10198.22,-1823.5"/>
 </g>
 <!-- nadfdfb632be609da83e43a053f7cd15b&#45;&gt;n74fd30791fa3e0c54e708c9d2952d9fb -->
-<g id="edge132" class="edge">
+<g id="edge134" class="edge">
 <title>nadfdfb632be609da83e43a053f7cd15b&#45;&gt;n74fd30791fa3e0c54e708c9d2952d9fb</title>
 <path fill="none" stroke="black" d="M13770.64,-359C13880.26,-359 14104.05,-359 14272.95,-359"/>
 <polygon fill="black" stroke="black" points="14272.98,-362.5 14282.98,-359 14272.98,-355.5 14272.98,-362.5"/>
@@ -1627,7 +1627,7 @@
 <polygon fill="black" stroke="black" points="276.99,-764.5 286.99,-761 276.99,-757.5 276.99,-764.5"/>
 </g>
 <!-- nb1525bdc612bc15175949f151cb08d60&#45;&gt;n0cff5d6aef88bda14360acc99327e0e8 -->
-<g id="edge19" class="edge">
+<g id="edge23" class="edge">
 <title>nb1525bdc612bc15175949f151cb08d60&#45;&gt;n0cff5d6aef88bda14360acc99327e0e8</title>
 <path fill="none" stroke="black" d="M3090.18,-812.9C3529.07,-812.72 4428.03,-812.35 4931.23,-812.15"/>
 <polygon fill="black" stroke="black" points="4931.57,-815.65 4941.57,-812.14 4931.57,-808.65 4931.57,-815.65"/>
@@ -1639,7 +1639,7 @@
 <text text-anchor="start" x="11451.47" y="-566.3" font-family="Times New Roman,serif" font-size="14.00" fill="green">Roll Success</text>
 </g>
 <!-- nb363eca04ef01a300ecd660b47023cf0&#45;&gt;n1737500c0692c10e7f848f3ac6074a36 -->
-<g id="edge96" class="edge">
+<g id="edge90" class="edge">
 <title>nb363eca04ef01a300ecd660b47023cf0&#45;&gt;n1737500c0692c10e7f848f3ac6074a36</title>
 <path fill="none" stroke="black" d="M11546.33,-573.31C11576.9,-575.09 11617.18,-577.44 11660.5,-579.96"/>
 <polygon fill="black" stroke="black" points="11660.49,-583.46 11670.68,-580.55 11660.9,-576.48 11660.49,-583.46"/>
@@ -1654,61 +1654,61 @@
 <text text-anchor="start" x="13330.39" y="-2215.8" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;TIEFLING</text>
 </g>
 <!-- nb4820c51b2092571a2a35ffc3f0d1a4f&#45;&gt;nf7efecb80e31a2219284e45d640f157c -->
-<g id="edge134" class="edge">
+<g id="edge133" class="edge">
 <title>nb4820c51b2092571a2a35ffc3f0d1a4f&#45;&gt;nf7efecb80e31a2219284e45d640f157c</title>
 <path fill="none" stroke="black" d="M12980.29,-1976.25C13006.74,-2026.08 13073.14,-2136.42 13164.57,-2185 13185.8,-2196.28 13208.16,-2205.87 13231.21,-2214"/>
 <polygon fill="black" stroke="black" points="13230.18,-2217.35 13240.77,-2217.28 13232.45,-2210.73 13230.18,-2217.35"/>
 </g>
 <!-- nb6c2c909f8edea640873f8b7df3f3bb8&#45;&gt;n3719bc02f31996d300f399b88982a62c -->
-<g id="edge73" class="edge">
+<g id="edge65" class="edge">
 <title>nb6c2c909f8edea640873f8b7df3f3bb8&#45;&gt;n3719bc02f31996d300f399b88982a62c</title>
 <path fill="none" stroke="black" d="M9898.03,-944.96C10048.11,-902.14 10240.84,-847.17 10320.33,-824.49"/>
 <polygon fill="black" stroke="black" points="10321.68,-827.75 10330.34,-821.64 10319.76,-821.02 10321.68,-827.75"/>
 </g>
 <!-- nbd3b7c4e546c12e00714fae7662e6b85&#45;&gt;n709c463dbcc10c943c8ced294b929328 -->
-<g id="edge156" class="edge">
+<g id="edge157" class="edge">
 <title>nbd3b7c4e546c12e00714fae7662e6b85&#45;&gt;n709c463dbcc10c943c8ced294b929328</title>
 <path fill="none" stroke="black" d="M15635.94,-359C15644.39,-359 15652.93,-359 15661.47,-359"/>
 <polygon fill="black" stroke="black" points="15661.49,-362.5 15671.49,-359 15661.49,-355.5 15661.49,-362.5"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n0478f5bf94c41bf4a5566f7b5bc56c55 -->
-<g id="edge91" class="edge">
+<g id="edge100" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n0478f5bf94c41bf4a5566f7b5bc56c55</title>
 <path fill="none" stroke="black" d="M10477.08,-1797.02C10584.11,-1776.17 10743.65,-1745.1 10867.56,-1720.96"/>
 <polygon fill="black" stroke="black" points="10868.4,-1724.36 10877.54,-1719.01 10867.06,-1717.49 10868.4,-1724.36"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n292f65d95ed72ddcc037b48e5c875c2b -->
-<g id="edge87" class="edge">
+<g id="edge96" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n292f65d95ed72ddcc037b48e5c875c2b</title>
 <path fill="none" stroke="black" d="M10507.99,-1822.12C10567.17,-1815.37 10631.66,-1797.36 10676.32,-1755 10722.32,-1711.38 10665.98,-1660.25 10712.32,-1617 10749.87,-1581.96 10800.27,-1563.19 10850.74,-1553.73"/>
 <polygon fill="black" stroke="black" points="10851.59,-1557.14 10860.83,-1551.96 10850.38,-1550.24 10851.59,-1557.14"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n41f08dc59be8496968b790bb305aac88 -->
-<g id="edge94" class="edge">
+<g id="edge103" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n41f08dc59be8496968b790bb305aac88</title>
 <path fill="none" stroke="black" d="M10381.99,-1857.16C10431.52,-1934.05 10556.89,-2110.18 10712.32,-2191 10761.03,-2216.33 10818.63,-2230.03 10872.44,-2237.2"/>
 <polygon fill="black" stroke="black" points="10872.08,-2240.69 10882.44,-2238.47 10872.96,-2233.74 10872.08,-2240.69"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n5f64ed7cc8fb02cd22517d93d723d489 -->
-<g id="edge93" class="edge">
+<g id="edge102" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n5f64ed7cc8fb02cd22517d93d723d489</title>
 <path fill="none" stroke="black" d="M10506.91,-1825.06C10567.54,-1819.11 10633.43,-1800.9 10676.32,-1755 10757.78,-1667.84 10630.66,-1575.97 10712.32,-1489 10738.03,-1461.62 10771.41,-1443.55 10807.18,-1431.88"/>
 <polygon fill="black" stroke="black" points="10808.3,-1435.19 10816.83,-1428.9 10806.24,-1428.5 10808.3,-1435.19"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n659e5833a8292a80d3b68eb1af38d0b9 -->
-<g id="edge86" class="edge">
+<g id="edge95" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n659e5833a8292a80d3b68eb1af38d0b9</title>
 <path fill="none" stroke="black" d="M10382.99,-1857.07C10433.24,-1931.25 10558.14,-2096.11 10712.32,-2158 10782.61,-2186.21 11321.69,-2180.62 11393.97,-2158 11598.13,-2094.11 11793.2,-1926.55 11889.94,-1833.89"/>
 <polygon fill="black" stroke="black" points="11892.52,-1836.27 11897.3,-1826.81 11887.67,-1831.22 11892.52,-1836.27"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n6be479d4e5f7506352df4e7aea681690 -->
-<g id="edge89" class="edge">
+<g id="edge98" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n6be479d4e5f7506352df4e7aea681690</title>
 <path fill="none" stroke="black" d="M10506.27,-1826.12C10567.54,-1820.51 10634.1,-1802.27 10676.32,-1755 10736.07,-1688.1 10652.33,-1419.67 10712.32,-1353 10742.52,-1319.44 10784.23,-1299.8 10828.1,-1288.81"/>
 <polygon fill="black" stroke="black" points="10829.16,-1292.16 10838.09,-1286.46 10827.56,-1285.34 10829.16,-1292.16"/>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n9fa73005a0c2f2725b55fd4642e1b1ab -->
-<g id="edge92" class="edge">
+<g id="edge101" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;n9fa73005a0c2f2725b55fd4642e1b1ab</title>
 <path fill="none" stroke="black" d="M10408.58,-1855.47C10474.62,-1901.13 10596.74,-1979.74 10712.32,-2023 10756.88,-2039.68 10806.36,-2052.45 10853.46,-2062.13"/>
 <polygon fill="black" stroke="black" points="10852.98,-2065.6 10863.47,-2064.15 10854.36,-2058.74 10852.98,-2065.6"/>
@@ -1724,7 +1724,7 @@
 <text text-anchor="start" x="10925.15" y="-1921.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;REALLY_ASTARION == True</text>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;nddfa95d161b5c944e8f73fc353233c4b -->
-<g id="edge90" class="edge">
+<g id="edge99" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;nddfa95d161b5c944e8f73fc353233c4b</title>
 <path fill="none" stroke="black" d="M10477.08,-1842.98C10587.87,-1864.56 10754.93,-1897.1 10880.49,-1921.56"/>
 <polygon fill="black" stroke="black" points="10880.11,-1925.05 10890.59,-1923.53 10881.45,-1918.18 10880.11,-1925.05"/>
@@ -1740,7 +1740,7 @@
 <text text-anchor="start" x="10909.15" y="-1786.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray"> &#160;&#160;&#160;REALLY_KARLACH == True</text>
 </g>
 <!-- nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;ned910f35677f78f510f293ee38838623 -->
-<g id="edge88" class="edge">
+<g id="edge97" class="edge">
 <title>nbfe59aa42fba73c771e74a7b7e91e5c4&#45;&gt;ned910f35677f78f510f293ee38838623</title>
 <path fill="none" stroke="black" d="M10508.22,-1820C10601.39,-1820 10723.13,-1820 10827.81,-1820"/>
 <polygon fill="black" stroke="black" points="10827.88,-1823.5 10837.88,-1820 10827.88,-1816.5 10827.88,-1823.5"/>
@@ -1752,7 +1752,7 @@
 <polygon fill="black" stroke="black" points="6795.07,-827.46 6804.91,-823.53 6794.77,-820.46 6795.07,-827.46"/>
 </g>
 <!-- nc2d9e4da99ab5e1064e9d0c7a9942f43&#45;&gt;n08cefaa7a4c129debe247908428d51eb -->
-<g id="edge30" class="edge">
+<g id="edge32" class="edge">
 <title>nc2d9e4da99ab5e1064e9d0c7a9942f43&#45;&gt;n08cefaa7a4c129debe247908428d51eb</title>
 <path fill="none" stroke="black" d="M6066.18,-765.42C6163.47,-770.08 6481.56,-785.31 6744.66,-798 6760.45,-798.76 6776.71,-799.55 6793.1,-800.34"/>
 <polygon fill="black" stroke="black" points="6793.17,-803.85 6803.33,-800.83 6793.51,-796.85 6793.17,-803.85"/>
@@ -1765,25 +1765,25 @@
 <text text-anchor="start" x="12429.07" y="-313.8" font-family="Times New Roman,serif" font-size="14.00">More proof that outsiders must never be trusted.</text>
 </g>
 <!-- nc9501092d8c358a9a82b8deb2663ff22&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge131" class="edge">
+<g id="edge122" class="edge">
 <title>nc9501092d8c358a9a82b8deb2663ff22&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M12736.69,-339.52C12788.14,-343.9 12842.22,-348.5 12884.9,-352.13"/>
 <polygon fill="black" stroke="black" points="12884.68,-355.62 12894.94,-352.98 12885.27,-348.65 12884.68,-355.62"/>
 </g>
 <!-- nc98a8ebfda4ce63775a97b721d297c68&#45;&gt;na12fd08151f2b5afdc7efa6bd7939854 -->
-<g id="edge81" class="edge">
+<g id="edge67" class="edge">
 <title>nc98a8ebfda4ce63775a97b721d297c68&#45;&gt;na12fd08151f2b5afdc7efa6bd7939854</title>
 <path fill="none" stroke="black" d="M11243.89,-491.14C11314.85,-471 11389.73,-449.74 11437.42,-436.21"/>
 <polygon fill="black" stroke="black" points="11438.52,-439.53 11447.18,-433.44 11436.6,-432.8 11438.52,-439.53"/>
 </g>
 <!-- nc98a8ebfda4ce63775a97b721d297c68&#45;&gt;nb363eca04ef01a300ecd660b47023cf0 -->
-<g id="edge80" class="edge">
+<g id="edge66" class="edge">
 <title>nc98a8ebfda4ce63775a97b721d297c68&#45;&gt;nb363eca04ef01a300ecd660b47023cf0</title>
 <path fill="none" stroke="black" d="M11307.15,-559.6C11348.81,-562 11388.62,-564.3 11420.18,-566.12"/>
 <polygon fill="black" stroke="black" points="11420.38,-569.64 11430.56,-566.72 11420.78,-562.65 11420.38,-569.64"/>
 </g>
 <!-- nc990caa6cf26e97cb6772ddae84dd50d&#45;&gt;nf7efecb80e31a2219284e45d640f157c -->
-<g id="edge126" class="edge">
+<g id="edge130" class="edge">
 <title>nc990caa6cf26e97cb6772ddae84dd50d&#45;&gt;nf7efecb80e31a2219284e45d640f157c</title>
 <path fill="none" stroke="black" d="M12997.36,-2242C13029.92,-2242 13086.62,-2242 13154.19,-2242"/>
 <polygon fill="black" stroke="black" points="13154.24,-2245.5 13164.24,-2242 13154.24,-2238.5 13154.24,-2245.5"/>
@@ -1795,7 +1795,7 @@
 <text text-anchor="start" x="15469.61" y="-2134.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- ncbc6450c227574fb52a8f8278a5f13c7&#45;&gt;nd8513be34a372a08329f29e623581d9f -->
-<g id="edge157" class="edge">
+<g id="edge156" class="edge">
 <title>ncbc6450c227574fb52a8f8278a5f13c7&#45;&gt;nd8513be34a372a08329f29e623581d9f</title>
 <path fill="none" stroke="black" d="M15080.7,-1981.72C15179.72,-2020.08 15371.78,-2094.48 15449.86,-2124.73"/>
 <polygon fill="black" stroke="black" points="15448.65,-2128.01 15459.24,-2128.36 15451.18,-2121.49 15448.65,-2128.01"/>
@@ -1807,13 +1807,13 @@
 <polygon fill="black" stroke="black" points="14309.07,-1655.5 14319.07,-1652 14309.07,-1648.5 14309.07,-1655.5"/>
 </g>
 <!-- nd3ee4158c200f3e5b9045b08cc6a3d90&#45;&gt;n0502531d48ab4f0210fc8aad8ee7e75b -->
-<g id="edge17" class="edge">
+<g id="edge15" class="edge">
 <title>nd3ee4158c200f3e5b9045b08cc6a3d90&#45;&gt;n0502531d48ab4f0210fc8aad8ee7e75b</title>
 <path fill="none" stroke="black" d="M2292.56,-427.1C2442.86,-434.86 2624.81,-444.25 2734.59,-449.92"/>
 <polygon fill="black" stroke="black" points="2734.49,-453.42 2744.66,-450.44 2734.85,-446.43 2734.49,-453.42"/>
 </g>
 <!-- nd4734403e1f49054ad1f7ee5b9682994&#45;&gt;n5f5ba4ba0c079d90cc0d7d9582c2fd37 -->
-<g id="edge21" class="edge">
+<g id="edge24" class="edge">
 <title>nd4734403e1f49054ad1f7ee5b9682994&#45;&gt;n5f5ba4ba0c079d90cc0d7d9582c2fd37</title>
 <path fill="none" stroke="black" d="M3082.91,-976.23C3097.77,-976.01 3112.92,-975.78 3128.24,-975.54"/>
 <polygon fill="black" stroke="black" points="3128.39,-979.04 3138.34,-975.39 3128.28,-972.04 3128.39,-979.04"/>
@@ -1838,61 +1838,61 @@
 <text text-anchor="start" x="12951.15" y="-1056.3" font-family="Times New Roman,serif" font-size="14.00" fill="gray">Jump</text>
 </g>
 <!-- nd629546150a6deebe99b4951e35e0497&#45;&gt;n2332fe66c311d1a62242b0e8f3021193 -->
-<g id="edge113" class="edge">
+<g id="edge109" class="edge">
 <title>nd629546150a6deebe99b4951e35e0497&#45;&gt;n2332fe66c311d1a62242b0e8f3021193</title>
 <path fill="none" stroke="black" d="M12990.94,-1049.07C13027.14,-1032.7 13099.53,-1002.4 13164.57,-990 13399.96,-945.12 14003.28,-970.2 14242.21,-952 14275.73,-949.45 14311.7,-945.77 14345.54,-941.88"/>
 <polygon fill="black" stroke="black" points="14345.97,-945.35 14355.5,-940.72 14345.16,-938.4 14345.97,-945.35"/>
 </g>
 <!-- nd7897d2974fdf0ff5122d9bdccc34bb5&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge83" class="edge">
+<g id="edge87" class="edge">
 <title>nd7897d2974fdf0ff5122d9bdccc34bb5&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M11984.38,-139.81C12090.72,-154.05 12466.95,-207.52 12768.72,-289 12816.68,-301.95 12869.66,-321.07 12908.57,-336.05"/>
 <polygon fill="black" stroke="black" points="12907.56,-339.41 12918.15,-339.77 12910.1,-332.89 12907.56,-339.41"/>
 </g>
 <!-- nd8513be34a372a08329f29e623581d9f&#45;&gt;na9674c0da51011e3682f720917ede73d -->
-<g id="edge159" class="edge">
+<g id="edge158" class="edge">
 <title>nd8513be34a372a08329f29e623581d9f&#45;&gt;na9674c0da51011e3682f720917ede73d</title>
 <path fill="none" stroke="black" d="M15457.97,-2146.32C15344.33,-2181.72 14881.52,-2318 14491.34,-2318 8803.09,-2318 8803.09,-2318 8803.09,-2318 8475.06,-2318 8235.34,-1076.83 8194.19,-849.52"/>
 <polygon fill="black" stroke="black" points="8197.6,-848.7 8192.38,-839.47 8190.71,-849.94 8197.6,-848.7"/>
 </g>
 <!-- nd858bc41b48bca5e6ef2f1b4eed6a220&#45;&gt;n74644ce611a7511e149c16630964b88d -->
-<g id="edge41" class="edge">
+<g id="edge43" class="edge">
 <title>nd858bc41b48bca5e6ef2f1b4eed6a220&#45;&gt;n74644ce611a7511e149c16630964b88d</title>
 <path fill="none" stroke="black" d="M6365.95,-706.63C6437.45,-708.72 6503.64,-710.66 6543.88,-711.83"/>
 <polygon fill="black" stroke="black" points="6543.93,-715.33 6554.03,-712.13 6544.14,-708.34 6543.93,-715.33"/>
 </g>
 <!-- nda05949e85180e41d48bcdb7526691fb&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge144" class="edge">
+<g id="edge148" class="edge">
 <title>nda05949e85180e41d48bcdb7526691fb&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13888.47,-1512.31C13993.01,-1525.2 14125.84,-1544.82 14242.21,-1572 14292.53,-1583.75 14347.32,-1601.02 14392.5,-1616.5"/>
 <polygon fill="black" stroke="black" points="14391.39,-1619.82 14401.99,-1619.77 14393.68,-1613.2 14391.39,-1619.82"/>
 </g>
 <!-- ndc904b9eef6968861f53b4a7411f4885&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge147" class="edge">
+<g id="edge151" class="edge">
 <title>ndc904b9eef6968861f53b4a7411f4885&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13984.37,-1342.08C14070.45,-1353.12 14163.24,-1374.15 14242.21,-1413 14334.41,-1458.37 14414.37,-1550.81 14456.85,-1606.49"/>
 <polygon fill="black" stroke="black" points="14454.27,-1608.89 14463.09,-1614.76 14459.86,-1604.67 14454.27,-1608.89"/>
 </g>
 <!-- nddfa95d161b5c944e8f73fc353233c4b&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge105" class="edge">
+<g id="edge111" class="edge">
 <title>nddfa95d161b5c944e8f73fc353233c4b&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11242.22,-1944.2C11294.56,-1934.46 11349.25,-1917.4 11393.97,-1888 11434.59,-1861.3 11462.43,-1810.26 11476.59,-1778.87"/>
 <polygon fill="black" stroke="black" points="11479.92,-1779.99 11480.71,-1769.43 11473.51,-1777.19 11479.92,-1779.99"/>
 </g>
 <!-- nde3ee47e7dd52d2cfbb9e4139d20d5e2&#45;&gt;n9c3604f9994d449593b76bb70d757e9e -->
-<g id="edge43" class="edge">
+<g id="edge41" class="edge">
 <title>nde3ee47e7dd52d2cfbb9e4139d20d5e2&#45;&gt;n9c3604f9994d449593b76bb70d757e9e</title>
 <path fill="none" stroke="black" d="M6309.38,-628.47C6401.38,-632.33 6493.5,-636.2 6544.16,-638.33"/>
 <polygon fill="black" stroke="black" points="6544.18,-641.84 6554.32,-638.76 6544.48,-634.84 6544.18,-641.84"/>
 </g>
 <!-- ndf6ba99a99fbe8588659308b48a0a621&#45;&gt;n7fff3b631deae81177d2f6d618158138 -->
-<g id="edge125" class="edge">
+<g id="edge123" class="edge">
 <title>ndf6ba99a99fbe8588659308b48a0a621&#45;&gt;n7fff3b631deae81177d2f6d618158138</title>
 <path fill="none" stroke="black" d="M13128.89,-876.34C13215.47,-875.99 13324.64,-875.54 13424.43,-875.13"/>
 <polygon fill="black" stroke="black" points="13424.69,-878.63 13434.68,-875.09 13424.66,-871.63 13424.69,-878.63"/>
 </g>
 <!-- ndfc989b8e8573f8fff5d582cdc40f4a5&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2 -->
-<g id="edge152" class="edge">
+<g id="edge145" class="edge">
 <title>ndfc989b8e8573f8fff5d582cdc40f4a5&#45;&gt;n7a6cce58a4ec60a1eedda7c5a0a052d2</title>
 <path fill="none" stroke="black" d="M13887.31,-1173.59C13998.04,-1172.45 14137.59,-1187.42 14242.21,-1254 14373.55,-1337.59 14446.65,-1518.7 14475.17,-1604.76"/>
 <polygon fill="black" stroke="black" points="14471.92,-1606.09 14478.35,-1614.52 14478.58,-1603.93 14471.92,-1606.09"/>
@@ -1906,13 +1906,13 @@
 <text text-anchor="start" x="6479.86" y="-483.8" font-family="Times New Roman,serif" font-size="14.00">And keep still, devil. Teela is restless.</text>
 </g>
 <!-- ne216850160907daed54365958366547b&#45;&gt;n4117390cfc40154c92fa8e6eb4516319 -->
-<g id="edge45" class="edge">
+<g id="edge47" class="edge">
 <title>ne216850160907daed54365958366547b&#45;&gt;n4117390cfc40154c92fa8e6eb4516319</title>
 <path fill="none" stroke="black" d="M6717.75,-467.26C6797.31,-455.35 6895.63,-440.64 6961.22,-430.82"/>
 <polygon fill="black" stroke="black" points="6962.09,-434.23 6971.46,-429.29 6961.05,-427.31 6962.09,-434.23"/>
 </g>
 <!-- ne5dfa5e35043571f35f9476c3d243387&#45;&gt;n84ed2f07fa47952ac9743038d231c578 -->
-<g id="edge121" class="edge">
+<g id="edge131" class="edge">
 <title>ne5dfa5e35043571f35f9476c3d243387&#45;&gt;n84ed2f07fa47952ac9743038d231c578</title>
 <path fill="none" stroke="black" d="M12595.45,-390.5C12655.76,-385.37 12795.35,-373.49 12884.84,-365.88"/>
 <polygon fill="black" stroke="black" points="12885.29,-369.35 12894.96,-365.02 12884.7,-362.38 12885.29,-369.35"/>
@@ -1925,25 +1925,25 @@
 <text text-anchor="start" x="11834.69" y="-865.8" font-family="Times New Roman,serif" font-size="14.00">I hear the Treefather&#39;s spirit in your words.</text>
 </g>
 <!-- ne93d14e81388b9e858a55a9ec3bcb2db&#45;&gt;nf665bfbf94f8a9a612bc8bec358eb278 -->
-<g id="edge95" class="edge">
+<g id="edge83" class="edge">
 <title>ne93d14e81388b9e858a55a9ec3bcb2db&#45;&gt;nf665bfbf94f8a9a612bc8bec358eb278</title>
 <path fill="none" stroke="black" d="M11547.26,-877C11601.52,-877 11685.74,-877 11763.44,-877"/>
 <polygon fill="black" stroke="black" points="11763.86,-880.5 11773.86,-877 11763.86,-873.5 11763.86,-880.5"/>
 </g>
 <!-- ned910f35677f78f510f293ee38838623&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0 -->
-<g id="edge118" class="edge">
+<g id="edge120" class="edge">
 <title>ned910f35677f78f510f293ee38838623&#45;&gt;n79866c2f938d07dd6ac8b1816d8de2f0</title>
 <path fill="none" stroke="black" d="M11239.8,-1790.87C11317.75,-1778.63 11401.17,-1765.54 11448.56,-1758.11"/>
 <polygon fill="black" stroke="black" points="11449.34,-1761.53 11458.68,-1756.52 11448.26,-1754.61 11449.34,-1761.53"/>
 </g>
 <!-- nee042a080972fc48abb12ec7c01e9f58&#45;&gt;n1dd7c3e56bce255ab2400277a55f32bb -->
-<g id="edge24" class="edge">
+<g id="edge21" class="edge">
 <title>nee042a080972fc48abb12ec7c01e9f58&#45;&gt;n1dd7c3e56bce255ab2400277a55f32bb</title>
 <path fill="none" stroke="black" d="M2912.46,-699C2989.31,-699 3112.35,-699 3230.58,-699"/>
 <polygon fill="black" stroke="black" points="3230.9,-702.5 3240.9,-699 3230.9,-695.5 3230.9,-702.5"/>
 </g>
 <!-- nee1d276525304f7aa4c544f8d2c09ba4&#45;&gt;nd629546150a6deebe99b4951e35e0497 -->
-<g id="edge84" class="edge">
+<g id="edge93" class="edge">
 <title>nee1d276525304f7aa4c544f8d2c09ba4&#45;&gt;nd629546150a6deebe99b4951e35e0497</title>
 <path fill="none" stroke="black" d="M10610.31,-1641.25C10635.44,-1628.4 10658.28,-1611.69 10676.32,-1590 10729.44,-1526.15 10653.41,-1276.54 10712.32,-1218 10957.7,-974.19 11141.56,-1148 11487.47,-1148 11487.47,-1148 11487.47,-1148 11955.19,-1148 12334.95,-1148 12791.97,-1085.55 12926.57,-1065.87"/>
 <polygon fill="black" stroke="black" points="12927.41,-1069.28 12936.79,-1064.36 12926.39,-1062.36 12927.41,-1069.28"/>
@@ -1961,19 +1961,19 @@
 <polygon fill="black" stroke="black" points="639.62,-764.5 649.62,-761 639.62,-757.5 639.62,-764.5"/>
 </g>
 <!-- nf2058cc854fbeeb8086abddbe7e042ee&#45;&gt;nc9501092d8c358a9a82b8deb2663ff22 -->
-<g id="edge107" class="edge">
+<g id="edge104" class="edge">
 <title>nf2058cc854fbeeb8086abddbe7e042ee&#45;&gt;nc9501092d8c358a9a82b8deb2663ff22</title>
 <path fill="none" stroke="black" d="M11270.89,-315.58C11559.1,-317.68 12065.34,-321.37 12351.46,-323.45"/>
 <polygon fill="black" stroke="black" points="12351.52,-326.95 12361.54,-323.52 12351.57,-319.95 12351.52,-326.95"/>
 </g>
 <!-- nf665bfbf94f8a9a612bc8bec358eb278&#45;&gt;n4f532fe690577c2648b24bec5305423f -->
-<g id="edge108" class="edge">
+<g id="edge113" class="edge">
 <title>nf665bfbf94f8a9a612bc8bec358eb278&#45;&gt;n4f532fe690577c2648b24bec5305423f</title>
 <path fill="none" stroke="black" d="M12134.59,-877C12270.44,-877 12446.51,-877 12524.22,-877"/>
 <polygon fill="black" stroke="black" points="12524.52,-880.5 12534.52,-877 12524.52,-873.5 12524.52,-880.5"/>
 </g>
 <!-- nf7efecb80e31a2219284e45d640f157c&#45;&gt;n27ce4132914f26b5753793a0309f8c0a -->
-<g id="edge143" class="edge">
+<g id="edge153" class="edge">
 <title>nf7efecb80e31a2219284e45d640f157c&#45;&gt;n27ce4132914f26b5753793a0309f8c0a</title>
 <path fill="none" stroke="black" d="M14239.63,-2237.23C14249.27,-2237.14 14258.78,-2237.06 14268.13,-2236.97"/>
 <polygon fill="black" stroke="black" points="14268.24,-2240.47 14278.2,-2236.88 14268.17,-2233.47 14268.24,-2240.47"/>
